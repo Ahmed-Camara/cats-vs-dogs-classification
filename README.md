@@ -8,3 +8,15 @@ In this project, I have created a GUI interface on which we can insert a picture
 
 # Results
 <img src="images/result.png" width="400" height="400">
+
+# How to use it ?
+
+- Install tensorflow
+- Install tkinter
+
+- clone repository
+```
+$ git clone git@github.com:Ahmed-Camara/cats-vs-dogs-classification.git
+```
+
+- run  ``` python3 predict.py ``` into terminal.
